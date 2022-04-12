@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Feed the cat</string>
+    <string name="feed">Feed</string>
+    <string name="satiety">Satiety</string>
+    <string name="share">Share</string>
+    <string name="back">Back</string>
+    <string name="about">About</string>
+    <string name="group">Group 951008</string>
+    <string name="student">Artsiom Sharakhouski</string>
+    <string name="task">Task #1</string>
+    <string name="results">Results</string>
+    <string name="date">Date</string>
+    <string name="result">Result</string>
+    <string name="saveAndExit">Save and exit</string>
+</resources>
